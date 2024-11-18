@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "EnergyPredictorAPI.Controllers.EnergyConsumptionController",
+    "Method": "AddConsumption",
+    "RelativePath": "api/EnergyConsumption/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "EnergyPredictorAPI.Models.ConsumptionData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnergyPredictorAPI.Controllers.EnergyConsumptionController",
+    "Method": "GetConsumptions",
+    "RelativePath": "api/EnergyConsumption/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnergyPredictorAPI.Controllers.EnergyConsumptionController",
+    "Method": "Predict",
+    "RelativePath": "api/EnergyConsumption/predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceType",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnergyPredictorAPI.Controllers.EnergyConsumptionController",
+    "Method": "TrainModel",
+    "RelativePath": "api/EnergyConsumption/train",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
