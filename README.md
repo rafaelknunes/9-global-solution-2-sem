@@ -1,7 +1,7 @@
-# GLOBAL SOLUTION : Advanced Business Development With .NET
+# GLOBAL SOLUTION FIAP : 2° semestre de 2024
 
-- 2° semestre de 2024
-
+### Advanced Business Development With .NET
+ 
 # Integrantes
 
 - Diogo Dias Rodrigues Gallina - RM98605 – 2TDSS
@@ -12,7 +12,7 @@
 
 # Link para o repositório no GitHub
 
-https://github.com/rafaelknunes/gs2-2024
+https://github.com/rafaelknunes/9-global-solution-2-sem
 
 # O que você vai encontrar neste README?
 
