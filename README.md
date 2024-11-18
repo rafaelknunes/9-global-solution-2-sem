@@ -1,7 +1,11 @@
 # GLOBAL SOLUTION FIAP : 2° semestre de 2024
 
-### Advanced Business Development With .NET
+## Advanced Business Development With .NET
  
+## Descrição do Projeto
+
+Nosso projeto implementa uma API em .NET que utiliza Inteligência Artificial para prever o consumo energético de dispositivos com base em seus tipos e dados históricos. Essa solução foi desenhada para melhorar processos de energia sustentável ao fornecer informações úteis e precisas para uma gestão mais eficiente do uso de energia.
+
 # Integrantes
 
 - Diogo Dias Rodrigues Gallina - RM98605 – 2TDSS
